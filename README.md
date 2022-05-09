@@ -1,5 +1,7 @@
 # Guacamole server
 
+!!!!!!!!! WIP DO NOT USE !!!!!!!!!
+
 Builder image to get to the freshly compiled binaries
 
 Ubuntu based!
